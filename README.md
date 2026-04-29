@@ -13,7 +13,7 @@
 ### 🛡️ About Me
 
 ```bash
-> whoami
+> 
 Jean
 
 > role
