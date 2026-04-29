@@ -13,7 +13,7 @@
 Jean
 
 > role
-Cybersecurity enthusiast
+Cybersecurity forensic analysis
 
 > focus
 ethical hacking | pentesting | linux
